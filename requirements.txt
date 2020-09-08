@@ -1,0 +1,7 @@
+tensorflow==2.3.0
+keras
+opencv-python
+pandas
+numpy
+matplotlib
+SpeechRecognition
