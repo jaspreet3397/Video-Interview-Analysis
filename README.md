@@ -21,7 +21,7 @@ You will need to install Nvidia CUDA 11.0+
 
 The design and training of the emotion recognition model have been is in the "Emotion_Recognition_Model.ipynb" file. The model structure and weights were then saved.
 
-The weights an model was then loaded in main.py file before using them on a video.
+The weights and model were then loaded in main.py file before using them on a video.
 
 feel free to email me at: jaspreetsingh3397@gmail.com :)
 
