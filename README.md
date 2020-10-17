@@ -1,6 +1,8 @@
 # Video-Interview-Analysis
 
-*************************************************^^^^^^
+*************************************************
+
+Here is a video of me explaining the code and showing its working: https://youtu.be/wLbgkwqNlWc
 
 The python libraries required to run the code is there
 in the requirements.txt file.
